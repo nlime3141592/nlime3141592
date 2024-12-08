@@ -22,6 +22,18 @@
 
 ---
 
+### Project, 프로젝트 수행
+
+---
+
+### Contact, 연락망
+
+- E-Mail: -
+- [Velog](https://velog.io/@cheonghaming/posts)
+- [Youtube](https://www.youtube.com/@%EC%B2%AD%ED%95%98%EB%B0%8D)
+
+---
+
 ### History, 이력
 <table>
   <tr>
@@ -44,10 +56,6 @@
     <td>동의대학교 컴퓨터공학과 AI&ASIC 시스템 실험실 소속</td>
   </tr>
 </table>
-
----
-
-### Project, 프로젝트 수행
 
 ---
 
