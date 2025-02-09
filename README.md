@@ -62,7 +62,7 @@
 ### University Info, 대학 정보
 - Dong-Eui University (Busan, South Korea)
 - Computer Engineering
-- Points (GPA: 4.44/4.5)
+- Points (GPA: 4.42/4.5)
 
 |Grade & Semester|Points|Rank|
 |:--------------:|:----:|:--:|
