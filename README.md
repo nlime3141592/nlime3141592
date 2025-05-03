@@ -33,9 +33,9 @@
 
 #### Toy
 - 2020.상반기. - .NET CLR 기반의 DLL 파일 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석 (비공개)
-- 2024.05.06.-2024.05.08. - 독자 구현한 OOXML 기반 xlsx-to-csv Converter
 - 2024.02.13.-2024.02.14. - 사용자 검색 시스템의 취약점을 이용한 서버 데이터 추출 프로젝트 (비공개)
 - 2024.03.10.-2024.03.12. - MAX7219 Driver 기반 8x8 LED Matrix를 이용한 [오디오 스펙트럼](https://github.com/nlime3141592/SoundVisualizer)의 구현
+- 2024.05.06.-2024.05.08. - 독자 구현한 OOXML 기반 xlsx-to-csv Converter
 
 #### 어디에 분류할지 고민 중인 프로젝트
 - 2023.09.18.-2023.12.08. - PC 및 [Android Mobile 환경](https://github.com/nlime3141592/StudyCafeAndroid01)에서 이용 가능한 [독서실 예약 서비스 구현](https://github.com/nlime3141592/StudyCafe00)
