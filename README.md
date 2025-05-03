@@ -40,8 +40,8 @@
 #### 어디에 분류할지 고민 중인 프로젝트
 - 2023.09.18.-2023.12.08. - PC 및 [Android Mobile 환경](https://github.com/nlime3141592/StudyCafeAndroid01)에서 이용 가능한 [독서실 예약 서비스 구현](https://github.com/nlime3141592/StudyCafe00)
 - 2024.11.11.-2024.12.23. - AIoT 프로젝트; CCTV 기능을 포함한 [사람 인식 기반 음악 재생 제어 시스템](https://github.com/nlime3141592/SmartMusicPlayerRPI)
-- 2024.12.05.-2024.12.13. - RESTful API를 웹 기반 GUI에서 조작할 수 있는 [RESTfulWEBtool](https://github.com/nlime3141592/RESTfulWEBtool) 도구 개발
 - 2024.11.15.-2024.12.20. - 독서 전/후 서비스를 제공할 수 있는 [통합 독서 플랫폼](https://github.com/nlime3141592/ReadingService)의 웹 구현
+- 2024.12.05.-2024.12.13. - RESTful API를 웹 기반 GUI에서 조작할 수 있는 [RESTfulWEBtool](https://github.com/nlime3141592/RESTfulWEBtool) 도구 개발
 
 #### 진행 예정
 - 2025.상반기. - DJ 컨트롤러와 연동 가능한 소프트웨어의 개발? / 오디오 필터 설계?
