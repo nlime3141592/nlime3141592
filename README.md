@@ -24,6 +24,10 @@
 
 ### Project, 프로젝트 수행
 
+- 2019.09.04.-2019.11.xx. - 3D 아케이드 게임 [Bullet](https://github.com/nlime3141592/the-bullet)
+- 2020.02.09.-2024.06.xx. - 2D 메트로바니아 게임 Celestial Priest(가명, 프로젝트 일시 중단)
+- 2024.12.23.-현재. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
+
 ---
 
 ### Languages
