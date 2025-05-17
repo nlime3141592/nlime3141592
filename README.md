@@ -16,7 +16,6 @@
 - Finite State Machine
 - Sequential File Structure
 #### Algorithms
-- Randomize
 - Procedural Generation
 - Parsing Algorithm
 
