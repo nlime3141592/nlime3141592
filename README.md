@@ -31,7 +31,7 @@
 - 2024.12.23.-2025.11.04. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
 - 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool) 구현
 - 2025.05.22.-2025.11.28. - [독자 DJ 컨트롤러와 DJ 소프트웨어 엔진](https://github.com/nlime3141592/DJ-ing) 개발
-- 2025.11.30.-현재. -2D 기지건설/디펜스 게임 Colony Defence (가명)
+- 2025.11.30.-현재. - 2D 기지건설/디펜스 게임 Colony Defence (가명)
 
 #### Toy
 - 2020.상반기. - .NET CLR 기반 DLL 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석
