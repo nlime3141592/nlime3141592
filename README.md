@@ -24,6 +24,7 @@
 ### Project, 프로젝트 수행
 
 #### Main
+> 커리어 중 수행한 굵직한 프로젝트
 - 2019.09.04.-2019.11.xx. - 3D 아케이드 게임 [Bullet](https://github.com/nlime3141592/the-bullet)
 - 2020.02.09.-2024.06.xx. - 2D 메트로바니아 게임 Celestial Priest (가명, 프로젝트 일시 중단)
 - 2023.11.13.-2023.12.12. - 개인 파일 서버 구현
@@ -34,11 +35,15 @@
 - 2025.11.30.-현재. - 2D 기지건설/디펜스 게임 Colony Defence (가명)
 
 #### Toy
+> 짧은 기간(보통 1주 내외)의 작은 프로젝트
 - 2020.상반기. - .NET CLR 기반 DLL 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석
 - 2024.03.10.-2024.03.12. - MAX7219 Driver 기반 8x8 LED Matrix를 이용한 [오디오 스펙트럼](https://github.com/nlime3141592/SoundVisualizer)의 구현
 - 2024.05.06.-2024.05.08. - OOXML 기반 xlsx-to-csv Converter 구현
 
 #### Projects on University
+> 대학교에서 수행한 프로젝트들
+> - Main에 등재된 프로젝트는 명시하지 않음
+> - Main에 등재된 프로젝트: 개인 파일 서버, 무드등, 메모리 도구, DJ Project
 - 2023.09.18.-2023.12.08. - PC 및 [Android Mobile 환경](https://github.com/nlime3141592/StudyCafeAndroid01)에서 이용 가능한 [독서실 예약 서비스 구현](https://github.com/nlime3141592/StudyCafe00)
 - 2024.11.11.-2024.12.23. - AIoT 프로젝트; CCTV 기능을 포함한 [사람 인식 기반 음악 재생 제어 시스템](https://github.com/nlime3141592/SmartMusicPlayerRPI)
 - 2024.11.15.-2024.12.20. - 독서 전/후 서비스를 제공할 수 있는 [통합 독서 플랫폼](https://github.com/nlime3141592/ReadingService)의 웹 구현
