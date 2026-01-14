@@ -30,7 +30,7 @@
 - 2024.05.03.-2024.06.24. - 오르골을 포함한 무드등 제어 시스템
 - 2024.12.23.-현재. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
 - 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool)
-- 2025.05.22.-현재. - [독자 DJ 컨트롤러와 DJ 전용 소프트웨어 개발](https://github.com/nlime3141592/DJ-ing)
+- 2025.05.22.-2025.11.28. - [독자 DJ 컨트롤러와 DJ 전용 소프트웨어 개발](https://github.com/nlime3141592/DJ-ing)
 
 #### Toy
 - 2020.상반기. - .NET CLR 기반 DLL 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석
