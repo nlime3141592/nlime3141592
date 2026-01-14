@@ -26,11 +26,12 @@
 #### Main
 - 2019.09.04.-2019.11.xx. - 3D 아케이드 게임 [Bullet](https://github.com/nlime3141592/the-bullet)
 - 2020.02.09.-2024.06.xx. - 2D 메트로바니아 게임 Celestial Priest (가명, 프로젝트 일시 중단)
-- 2023.11.13.-2023.12.12. - 개인 파일 서버 시스템
-- 2024.05.03.-2024.06.24. - 오르골을 포함한 무드등 제어 시스템
-- 2024.12.23.-현재. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
-- 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool)
-- 2025.05.22.-2025.11.28. - [독자 DJ 컨트롤러와 DJ 전용 소프트웨어 개발](https://github.com/nlime3141592/DJ-ing)
+- 2023.11.13.-2023.12.12. - 개인 파일 서버 구현
+- 2024.05.03.-2024.06.24. - 오르골을 포함한 무드등 제어 시스템 구현
+- 2024.12.23.-2025.11.04. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
+- 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool) 구현
+- 2025.05.22.-2025.11.28. - [독자 DJ 컨트롤러와 DJ 소프트웨어 엔진](https://github.com/nlime3141592/DJ-ing) 개발
+- 2025.11.30.-현재.
 
 #### Toy
 - 2020.상반기. - .NET CLR 기반 DLL 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석
