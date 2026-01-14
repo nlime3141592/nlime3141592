@@ -26,27 +26,22 @@
 #### Main
 - 2019.09.04.-2019.11.xx. - 3D 아케이드 게임 [Bullet](https://github.com/nlime3141592/the-bullet)
 - 2020.02.09.-2024.06.xx. - 2D 메트로바니아 게임 Celestial Priest (가명, 프로젝트 일시 중단)
-- 2023.11.13.-2023.12.12. - TCP Socket 기반 독자 파일 서버 시스템
-- 2024.05.03.-2024.06.24. - IoT 프로젝트; 오르골을 포함한 무드등 제어 시스템
+- 2023.11.13.-2023.12.12. - 개인 파일 서버 시스템
+- 2024.05.03.-2024.06.24. - 오르골을 포함한 무드등 제어 시스템
 - 2024.12.23.-현재. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
-- 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool)의 독자 구현
-- 2025.05.22.-현재. - 독자 DJ 컨트롤러와 DJ 전용 소프트웨어 개발
+- 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool)
+- 2025.05.22.-현재. - [독자 DJ 컨트롤러와 DJ 전용 소프트웨어 개발](https://github.com/nlime3141592/DJ-ing)
 
 #### Toy
-- 2020.상반기. - .NET CLR 기반의 DLL 파일 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석 (비공개)
-- 2024.02.13.-2024.02.14. - 사용자 검색 시스템의 취약점을 이용한 서버 데이터 추출 프로젝트 (비공개)
+- 2020.상반기. - .NET CLR 기반 DLL 디컴파일을 통한 게임 캐릭터의 유한 상태 기계 구조 분석
 - 2024.03.10.-2024.03.12. - MAX7219 Driver 기반 8x8 LED Matrix를 이용한 [오디오 스펙트럼](https://github.com/nlime3141592/SoundVisualizer)의 구현
-- 2024.05.06.-2024.05.08. - 독자 구현한 OOXML 기반 xlsx-to-csv Converter
+- 2024.05.06.-2024.05.08. - OOXML 기반 xlsx-to-csv Converter 구현
 
-#### 어디에 분류할지 고민 중인 프로젝트
+#### Projects on University
 - 2023.09.18.-2023.12.08. - PC 및 [Android Mobile 환경](https://github.com/nlime3141592/StudyCafeAndroid01)에서 이용 가능한 [독서실 예약 서비스 구현](https://github.com/nlime3141592/StudyCafe00)
 - 2024.11.11.-2024.12.23. - AIoT 프로젝트; CCTV 기능을 포함한 [사람 인식 기반 음악 재생 제어 시스템](https://github.com/nlime3141592/SmartMusicPlayerRPI)
 - 2024.11.15.-2024.12.20. - 독서 전/후 서비스를 제공할 수 있는 [통합 독서 플랫폼](https://github.com/nlime3141592/ReadingService)의 웹 구현
-- 2024.12.05.-2024.12.13. - RESTful API를 웹 기반 GUI에서 조작할 수 있는 [RESTfulWEBtool](https://github.com/nlime3141592/RESTfulWEBtool) 도구 개발
-
-#### 진행 예정
-- 2025.상반기. - 독자 운영체제 개발?
-- 2025.상반기. - 2D 기지 건설 장르에 최적화된 독자 게임 엔진 개발?
+- 2024.12.05.-2024.12.13. - RESTful API를 웹 기반 GUI에서 조작할 수 있는 [API Client Tool](https://github.com/nlime3141592/RESTfulWEBtool) 개발
 
 ---
 
@@ -59,7 +54,7 @@
 
 - E-Mail: -
 - [Velog](https://velog.io/@cheonghaming/posts)
-- [Youtube](https://www.youtube.com/@%EC%B2%AD%ED%95%98%EB%B0%8D)
+- Youtube: -
 
 ---
 
@@ -102,4 +97,4 @@
 |3-1/2024-1|4.43/4.5|5/98|
 |3-2/2024-2|4.25/4.5|10/94|
 |4-1/2025-1|4.42/4.5|7/101|
-|4-2/2025-2|Nan/4.5|Nan/Nan|
+|4-2/2025-2|4.5/4.5|1/68|
