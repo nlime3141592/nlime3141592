@@ -14,10 +14,13 @@
 - Game Logic Development
 #### Data Structures
 - Finite State Machine
-- Sequential File Structure
 #### Algorithms
 - Procedural Generation
 - Parsing Algorithm
+#### Signal Processing
+- Audio Signal Processing
+- Software FX
+- DJ Software
 
 ---
 
@@ -52,7 +55,7 @@
 ---
 
 ### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlime3141592&langs_count=10&layout=compact)
+![Top Languages](https://your-deployment-url.vercel.app/api/languages?count=16&theme=dark&title=My%20Top%2010%20Languages)
 
 ---
 
@@ -60,7 +63,6 @@
 
 - E-Mail: -
 - [Velog](https://velog.io/@cheonghaming/posts)
-- Youtube: -
 
 ---
 
@@ -75,11 +77,11 @@
     <td>Team Unchord 소속</td>
   <tr>
     <td>2019.03.04~2026.02.23</td>
-    <td>동의대학교 컴퓨터공학과 졸업</td>
+    <td>동의대학교 컴퓨터공학과 졸업 (학과수석)</td>
   </tr>
   <tr>
     <td>2021.03.02-2022.11.27</td>
-    <td>사회복무요원 소집해제 (부산보호관찰소서부지소)</td>
+    <td>병역; 사회복무요원 소집해제 (부산보호관찰소서부지소)</td>
   </tr>
   <tr>
     <td>2024.03.13~2026.02.23</td>
