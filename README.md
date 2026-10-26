@@ -1,11 +1,15 @@
 ### Introduction
 - Name; MinSeong-Choi (최민성)
 
+---
+
 ### Interests
 - 게임 개발
 - 음향 신호 처리
 - SFX 소프트웨어, DJ 소프트웨어
 - 유한 상태 기계
+
+---
 
 ### Projects
 
@@ -25,12 +29,35 @@
 - 2024.12.05.-2024.12.13. - [API Client Tool](https://github.com/nlime3141592/RESTfulWEBtool) 개발
 - 2025.05.06.-2025.06.11. - [메모리 스캐닝 및 조작 도구](https://github.com/nlime3141592/MemoryTool) 구현
 
-### Languages
-![Top Languages](https://your-deployment-url.vercel.app/api/languages?count=16&theme=dark&title=My%20Top%2010%20Languages)
+---
+
+### Stacks
+
+- 이상적인 목표치를 다음과 같이 두고 달릴 것
+
+#### Languages
+![](https://img.shields.io/badge/C-red)
+![](https://img.shields.io/badge/Cpp-brown)
+![](https://img.shields.io/badge/CSharp-green)
+
+#### Tools
+![](https://img.shields.io/badge/UnityEngine-black)
+![](https://img.shields.io/badge/DX12-white)
+![](https://img.shields.io/badge/Flask-blue)
+![](https://img.shields.io/badge/MariaDB-indigo)
+![](https://img.shields.io/badge/AndroidStudio-yellowgreen)
+
+#### Hardware
+![](https://img.shields.io/badge/STM32-purple)
+![](https://img.shields.io/badge/AlteraCycloneIV-magenta)
+
+---
 
 ### Contact
 - E-Mail: -
 - [Velog](https://velog.io/@cheonghaming/posts)
+
+---
 
 ### History
 <table>
