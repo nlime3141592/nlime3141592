@@ -19,6 +19,7 @@
 - 2024.12.23.-2025.11.04. - 2D Survival-Like 게임 [Touhou Survival](https://github.com/9kyo-hwang/TouhouSurvival)
 - 2025.05.22.-2025.11.28. - [독자 DJ 컨트롤러와 DJ 소프트웨어 엔진](https://github.com/nlime3141592/DJ-ing) 개발
 - 2025.11.30.-현재. - 2D 기지건설/디펜스 게임 Colony Defence (가명)
+- 2026.10.17.-현재. - 모바일 집사 프로젝트; 목표 관리 앱
 
 #### Projects on University
 - 2023.09.18.-2023.12.08. - [독서실 예약 서비스](https://github.com/nlime3141592/StudyCafe00)
